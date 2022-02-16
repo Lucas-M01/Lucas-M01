@@ -27,6 +27,8 @@
   <a href = "https://api.whatsapp.com/send?phone=5561981593206&text=Ol%C3%A1%2C%20vi%20o%20seu%20GitHub%20%F0%9F%98%81%20Me%20chamo%3A"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-m01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
-    ![Snake animation](https://github.com/Lucas-M01/Lucas-M01/blob/output/github-contribution-grid-snake.svg)
+ <br>
+ 
+ ![Snake animation](https://github.com/Lucas-M01/Lucas-M01/blob/output/github-contribution-grid-snake.svg)
 
   </div>
