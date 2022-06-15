@@ -1,7 +1,7 @@
 ### Hii! My name is Lucas Montenegro 👋
 
 - 📚 I’m currently learning: React, SQL, C#
-- 📧 Contact me on my email: lucas.montenegro.n@gmail.com
+- 📧 Contact me on my email: lucas.montenegro.n@outlook.com
 - 😄 Pronouns: He/Him
 
  <div>
