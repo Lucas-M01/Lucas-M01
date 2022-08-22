@@ -1,6 +1,6 @@
 ### Hii! My name is Lucas Montenegro 👋
 
-- 📚 I’m currently learning: React, SQL, C#
+- 📚 I’m currently learning: ReactJS, NodeJS, Typescript
 - 📧 Contact me on my email: lucas.montenegro.n@outlook.com
 - 😄 Pronouns: He/Him
 
