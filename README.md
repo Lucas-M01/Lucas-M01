@@ -1,7 +1,8 @@
-### Hii! My name is Lucas Montenegro 👋
+### Hi! My name is Lucas Montenegro 👋
 
+- 
 - 📚 I’m currently learning: ReactJS, NodeJS, Typescript, NextJs
-- 📧 Contact me on my email: lucas.montenegro.n@outlook.com
+- 📧 Contact me on my email: lucas.montenegro.n@outlook.com or lucas.montenegro.n@gmail.com
 - 😄 Pronouns: He/Him
 
  <div>
