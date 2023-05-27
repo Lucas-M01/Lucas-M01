@@ -1,6 +1,6 @@
 ### Hi! My name is Lucas Montenegro 👋
 
-- 📚 I’m currently learning: ReactJS, NodeJS, Typescript, NextJs
+- 📚 I’m currently learning: ReactJS, Java, Typescript, NextJs
 - 📧 Contact me on my email: lucas.montenegro.n@outlook.com or lucas.montenegro.n@gmail.com
 - 😄 Pronouns: He/Him
 
@@ -16,7 +16,7 @@
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Lucas-NextJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="right" alt="Lucas-Avatar" height="" width="250" src="https://user-images.githubusercontent.com/82176047/154317010-36fbb895-198c-45f1-b2bd-db0c99c82244.png">
 </div>
