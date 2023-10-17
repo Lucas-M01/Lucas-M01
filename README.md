@@ -6,8 +6,15 @@
 
  <div>
   <a href="https://github.com/Lucas-M01">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Lucas-M01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-M01&layout=compact&langs_count=7&theme=dracula"/>
+
+<a href="https://github.com/Lucas-M01/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-M01&&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+</a>
+<a href="https://github.com/Lucas-M01/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-M01&layout=compact&langs_count=8&card_width=320&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+</a>
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Lucas-M01&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 </div>
   
 <div style="display: inline_block"><br>
@@ -24,10 +31,11 @@
   ##
   
 <div> 
-  <a href="mailto:lucas.montenegro.n@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-m01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href="mailto:lucas.montenegro.n@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
- 
- ![Snake animation](https://github.com/Lucas-M01/Lucas-M01/blob/output/github-contribution-grid-snake.svg)
 
-  </div>
+  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail)](mailto:lucas.montenegro.n@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucas-m01/)  
+  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:lucas.montenegro.n@outlook.com)
+ 
+</div>
+
+ ![Snake animation](https://github.com/Lucas-M01/Lucas-M01/blob/output/github-contribution-grid-snake.svg)
