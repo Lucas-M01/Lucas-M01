@@ -15,10 +15,7 @@
 </a>
 
 <br>
-<br>
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Lucas-M01&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -40,5 +37,3 @@
   [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:lucas.montenegro.n@outlook.com)
  
 </div>
-
- ![Snake animation](https://github.com/Lucas-M01/Lucas-M01/blob/output/github-contribution-grid-snake.svg)
